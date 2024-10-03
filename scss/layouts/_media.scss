@@ -1,0 +1,19 @@
+@media (max-width: 480px) {
+    header {
+        flex-direction: column;
+        align-items: center;
+        
+
+        nav {
+            margin-top: 10px;
+        }
+    }
+
+    main {
+        padding: 15px; 
+    }
+
+    footer {
+        padding: 5px; 
+    }
+}
